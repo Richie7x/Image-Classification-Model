@@ -14,4 +14,4 @@ Librares and tools used:
 
 NOTICE:
 1. Model can be tested by loading an Image URL. *imread()* function from scikit-learn will read the image and the following code will produce an accurate prediction. (If the image from the web can't be accessible or is not authorized to access then the program will throw an error).
-2. The repository has a folder containing test images which can be used as well.
+2. The repository has an archive containing test images which can be used as well.
